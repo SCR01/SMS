@@ -83,11 +83,11 @@ Backend will run on: `http://localhost:5000`
 
 | Dashboard | Add Item Page |
 |-----------|----------------|
-| ![Dashboard](![image](https://github.com/user-attachments/assets/89d96235-b1a2-46be-bba1-2342d7fbdd1d)
-) | ![Add Item](![image](https://github.com/user-attachments/assets/7c9679bc-4939-4294-a95e-809fa4933f75)
-) |
+| ![Dashboard](![image](https://github.com/user-attachments/assets/89d96235-b1a2-46be-bba1-2342d7fbdd1d) |
+| ![Add Item](![image](https://github.com/user-attachments/assets/7c9679bc-4939-4294-a95e-809fa4933f75) |
+ 
 
-> Save your screenshots in the `screenshots/` directory
+
 
 ---
 
