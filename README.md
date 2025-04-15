@@ -2,7 +2,7 @@
 
 A modern web-based **Storage Management System (SMS)** that allows users to track, manage, and organize items within storage units. Built using **React.js** for the frontend and **Node.js with Express** for the backend, it provides a seamless interface for efficient inventory and space control.
 
-![image](https://github.com/user-attachments/assets/90a228f0-fb4e-47bd-83df-e6c4044ddc8f)
+![image](https://i.ibb.co/wR9G2k3/Readme-Thumbnail.png)
 
 
 ---
@@ -135,4 +135,7 @@ This project is licensed under the [MIT License](LICENSE).
 **Sharad C Reddy**  
 🔗 [GitHub](https://github.com/SCR01)  
 🌐 [Portfolio](https://portfolio-scr.vercel.app)
+
+
+
 
